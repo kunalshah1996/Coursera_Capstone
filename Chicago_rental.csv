@@ -1,0 +1,669 @@
+Title,Price,Address,Beds
+Common Addams,$858,"1407 W 15th St, Chicago, IL 60608",2-4 Bed
+"Landmark West Loop, Chicago, IL","$1,850","1035 W Van Buren St, Chicago, IL 60607",Studio - 2 Bed
+"The Van Buren, Chicago, IL","$2,215","808 W Van Buren St, Chicago, IL 60607",Studio - 2 Bed
+"milieu, Chicago, IL","$1,977","205 S Peoria, Chicago, IL 60607",Studio - 2 Bed
+"the Duncan, Chicago, IL","$1,146","1515 W Monroe St, Chicago, IL 60607",Studio - 1 Bed
+"JeffJack Apartments, Chicago, IL","$1,589","601 W Jackson Blvd, Chicago, IL 60661",Studio - 2 Bed
+"Gateway West Loop, Chicago, IL","$1,711","11 S Green St, Chicago, IL 60607",Studio - 2 Bed
+"Union West, Chicago, IL","$1,428","939 W Washington Blvd, Chicago, IL 60607",Studio - 3 Bed
+"727 West Madison, Chicago, IL","$1,835","727 W Madison St, Chicago, IL 60661",Studio - 3 Bed
+"Presidential Towers, Chicago, IL","$1,370","555 W Madison St, Chicago, IL 60661",Studio - 2 Bed
+"The Parker Fulton Market, Chicago, IL","$1,804","730 W Couch Pl, Chicago, IL 60661",Studio - 3 Bed
+"The Cooper, Chicago, IL","$1,600","720 S Wells St, Chicago, IL 60607",Studio - 3 Bed
+"Alta Grand Central, Chicago, IL","$1,607","221 W Harrison St, Chicago, IL 60605",Studio - 2 Bed
+"Alta Roosevelt, Chicago, IL","$1,721","801 S Financial Pl, Chicago, IL 60605",Studio - 3 Bed
+"Emme Chicago, Chicago, IL","$1,822","165 N Desplaines St, Chicago, IL 60661",Studio - 2 Bed
+"330 S Wells, Chicago, IL","$1,625","330 S Wells St, Chicago, IL 60606",Studio - 1 Bed
+"AMLI Lofts, Chicago, IL","$1,727","850 S Clark St, Chicago, IL 60605",Studio - 2 Bed
+"Burnham Pointe, Chicago, IL","$1,974","730 S Clark St, Chicago, IL 60605",1-2 Bed
+"Imprint, Chicago, IL","$1,600","717 S Clark St, Chicago, IL 60605",Studio - 4 Bed
+"K2 Apartments, Chicago, IL","$1,699","365 N Halsted St, Chicago, IL 60661",Studio - 3 Bed
+"731 South, Chicago, IL","$1,649","731 S Plymouth Ct, Chicago, IL 60605",1-2 Bed
+"Millennium on LaSalle, Chicago, IL","$1,660","29 S LaSalle St, Chicago, IL 60603",Studio - 2 Bed
+"Fisher Building City Apartments, Chicago, IL","$1,600","343 S Dearborn St, Chicago, IL 60604",Studio - 3 Bed
+"1001 South State, Chicago, IL","$1,700","1001 S State St, Chicago, IL 60605",Studio - 3 Bed
+"777 South State, Chicago, IL","$1,575","2 E 8th St, Chicago, IL 60605",Studio - 3 Bed
+"Alta at K Station, Chicago, IL","$1,427","555 W Kinzie St, Chicago, IL 60654",Studio - 3 Bed
+"Wolf Point West, Chicago, IL","$1,811","343 W Wolf Point Plz, Chicago, IL 60654",Studio - 3 Bed
+"Eleven40, Chicago, IL","$1,585","1136-1140 S Wabash Ave, Chicago, IL 60605",Studio - 2 Bed
+"Linea Apartments, Chicago, IL","$1,969","215 W Lake St, Chicago, IL 60606",Studio - 3 Bed
+"Century Tower, Chicago, IL","$1,560","182 W Lake St, Chicago, IL 60601",Studio - 3 Bed
+"820 South, Chicago, IL","$1,449","820 S Michigan Ave, Chicago, IL 60605",Studio - 2 Bed
+"Essex on the Park, Chicago, IL","$1,810","808 S Michigan Ave, Chicago, IL 60605",Studio - 4 Bed
+"ELEVEN THIRTY, Chicago, IL","$1,306","1130 S Michigan Ave, Chicago, IL 60605",Studio - 2 Bed
+"Coeval, Chicago, IL","$1,525","51 E 14th St, Chicago, IL 60605",Studio - 2 Bed
+"The Paragon, Chicago, IL","$1,870","1326 S Michigan Ave, Chicago, IL 60605",Studio - 3 Bed
+"NEMA Chicago, Chicago, IL","$1,921","1210 S Indiana Ave, Chicago, IL 60605",Studio - 4 Bed
+"1407 On Michigan, Chicago, IL","$1,600","1407 S Michigan Ave, Chicago, IL 60605",Studio - 3 Bed
+"Marquee at Block 37, Chicago, IL","$1,677","25 W Randolph St, Chicago, IL 60601",Studio - 3 Bed
+"Spoke, Chicago, IL","$1,775","728 N Morgan St, Chicago, IL 60642",Studio - 2 Bed
+"EnV Chicago, Chicago, IL","$1,710","161 W Kinzie St, Chicago, IL 60654",Studio - 2 Bed
+"Hubbard 221, Chicago, IL","$1,725","221 W Hubbard St, Chicago, IL 60654",Studio - 3 Bed
+"River North Park Apartments, Chicago, IL","$1,500","320 W Illinois St, Chicago, IL 60654",Studio - 2 Bed
+"Oakwood Residence Chicago River North, Chicago, IL","$2,000","220 W Illinois St, Chicago, IL 60654",Studio - 2 Bed
+"MDA City Club Apartments, Chicago, IL","$1,600","63 E Lake St, Chicago, IL 60601",Studio - 2 Bed
+"AMLI River North, Chicago, IL","$1,831","71 W Hubbard St, Chicago, IL 60654",Studio - 3 Bed
+"73 East Lake, Chicago, IL","$2,105","73 E Lake St, Chicago, IL 60601",Studio - 2 Bed
+"MILA, Chicago, IL","$1,651","201 N Garland Ct, Chicago, IL 60601",Studio - 2 Bed
+"Marlowe, Chicago, IL","$1,812","169 W Huron St, Chicago, IL 60654",Studio - 2 Bed
+"GRAND PLAZA, Chicago, IL","$1,810","540 N State St, Chicago, IL 60654",Studio - 2 Bed
+"Aqua at Lakeshore East, Chicago, IL","$1,686","225 N Columbus Dr, Chicago, IL 60601",Studio - 2 Bed
+"One Superior Place, Chicago, IL","$1,579","1 W Superior St, Chicago, IL 60654",Studio - 2 Bed
+"Coast at Lakeshore East, Chicago, IL","$1,565","345 E Wacker Dr, Chicago, IL 60601",Studio - 3 Bed
+"The Tides at Lakeshore East, Chicago, IL","$1,472","360 E South Water St, Chicago, IL 60601",Studio - 2 Bed
+"Aurelien, Chicago, IL","$2,174","833 N Clark St, Chicago, IL 60610",Studio - 3 Bed
+"Optima Signature, Chicago, IL","$2,105","220 E Illinois St, Chicago, IL 60611",Studio - 3 Bed
+"The Shoreham at Lakeshore East, Chicago, IL","$1,447","400 E South Water St, Chicago, IL 60601",Studio - 2 Bed
+"North Water Apartments, Chicago, IL","$1,966","340 E North Water St, Chicago, IL 60611",Studio - 3 Bed
+"Xavier, Chicago, IL","$1,910","625 W Division St, Chicago, IL 60610",Studio - 2 Bed
+"Cityfront Place, Chicago, IL","$1,330","400 N McClurg Ct, Chicago, IL 60611",Studio - 2 Bed
+"Chestnut Place, Chicago, IL","$1,894","8 W Chestnut St, Chicago, IL 60610",1-2 Bed
+"One East Delaware, Chicago, IL","$1,750","1 E Delaware Pl, Chicago, IL 60611",Studio - 2 Bed
+"Lofts At River East, Chicago, IL","$2,035","401-465 E Illinois St, Chicago, IL 60611",Studio - 3 Bed
+"One Bennett Park, Chicago, IL","$3,460","514 N Peshtigo Ct, Chicago, IL 60611",1-3 Bed
+"420 E Ohio, Chicago, IL","$1,816","420 E Ohio St, Chicago, IL 60611",Studio - 3 Bed
+"Lake Shore Plaza, Chicago, IL","$1,400","445 E Ohio St, Chicago, IL 60611",Studio - 2 Bed
+"500 Lake Shore Drive, Chicago, IL","$1,950","500 N Lake Shore Dr, Chicago, IL 60611",Studio - 3 Bed
+"40 East Oak, Chicago, IL","$1,385","40 E Oak St, Chicago, IL 60611",Studio - 1 Bed
+"Axis Apartments &amp; Lofts, Chicago, IL","$1,550","441 E Erie St, Chicago, IL 60611",Studio - 3 Bed
+"The Sinclair, Chicago, IL","$2,116","102 W Division St, Chicago, IL 60610",Studio - 4 Bed
+"Seneca, Chicago, IL","$1,254","200 E Chestnut St, Chicago, IL 60611",Studio - 2 Bed
+"14 West Elm Apartments, Chicago, IL","$1,250","14 W Elm St, Chicago, IL 60610",Studio - 2 Bed
+"Gold Coast City Club Apartments, Chicago, IL","$1,520","860 N Dewitt Pl, Chicago, IL 60611",Studio - 2 Bed
+"850 Lake Shore Drive, Chicago, IL","$2,120","850 N Lake Shore Dr, Chicago, IL 60611",1-2 Bed
+"Cobbler Square Lofts, Chicago, IL","$1,580","1350 N Wells St, Chicago, IL 60610",Studio - 2 Bed
+"65 East Scott, Chicago, IL","$1,420","65 E Scott St, Chicago, IL 60610",Studio - 2 Bed
+"1401 S. State, Chicago, IL","$1,645","1401 S State St, Chicago, IL 60605",Studio - 2 Bed
+"Aston, Chicago, IL","$1,985","200 E Illinois St, Chicago, IL 60611",1-3 Bed
+"SCIO AT THE MEDICAL DISTRICT, Chicago, IL","$1,436","901 S Ashland Ave, Chicago, IL 60607",Studio - 2 Bed
+"The Otis, Chicago, IL","$1,850","1435 W 15th St, Chicago, IL 60608",1-2 Bed
+"Arkadia West Loop, Chicago, IL","$1,700","765 W Adams St, Chicago, IL 60661",Studio - 3 Bed
+"Luxe on Madison, Chicago, IL","$1,895","1222 W Madison St, Chicago, IL 60607",Studio - 2 Bed
+"The Madison at Racine, Chicago, IL","$1,884","1164-1212 W Madison St, Chicago, IL 60607",Studio - 2 Bed
+"Porte, Chicago, IL","$2,170","855 W Madison St, Chicago, IL 60607",Studio - 3 Bed
+"Circa 922, Chicago, IL","$1,805","922 W Washington Blvd, Chicago, IL 60607",Studio - 2 Bed
+"Lake Street Lofts, Chicago, IL","$1,895","910 W Lake St, Chicago, IL 60607",1-2 Bed
+"Wells Place Apartments, Chicago, IL","$2,334","837-839 S Wells St, Chicago, IL 60607",1-2 Bed
+"The Regal Apartments, Chicago, IL","$1,613","651 S Wells St, Chicago, IL 60607",1-3 Bed
+"Roosevelt Collection Lofts, Chicago, IL","$2,090","150 W Roosevelt Rd, Chicago, IL 60605",1-2 Bed
+"180 North Jefferson, Chicago, IL","$1,624","180 N Jefferson St, Chicago, IL 60661",Studio - 3 Bed
+"AMLI 900, Chicago, IL","$1,553","900 S Clark St, Chicago, IL 60605",Studio - 3 Bed
+"1000 South Clark, Chicago, IL","$1,650","1000 S Clark St., Chicago, IL 60605",Studio - 3 Bed
+"Echelon Chicago, Chicago, IL","$1,704","353 N Desplaines St, Chicago, IL 60661",Studio - 2 Bed
+"215 West Apartments, Chicago, IL","$1,785","215 W Washington St, Chicago, IL 60606",Studio - 3 Bed
+"Left Bank, Chicago, IL","$1,779","300 N Canal St, Chicago, IL 60606",Studio - 3 Bed
+"Astoria Tower, Chicago, IL","$1,549","8 E 9th St, Chicago, IL 60605",Studio - 2 Bed
+"Randolph Tower City Apartments, Chicago, IL","$1,565","188 W Randolph St, Chicago, IL 60601",Studio - 2 Bed
+"Wolf Point East, Chicago, IL","$1,880","313 W Wolf Point Plz, Chicago, IL 60654",Studio - 3 Bed
+Infinite Chicago,$869,"28 E Jackson Blvd, Chicago, IL 60604",Studio - 4 Bed
+"Park Michigan - 1212 S Michigan Ave, Chicago, IL","$1,420","1212 S Michigan Ave, Chicago, IL 60605",Studio - 2 Bed
+"The Alfred, Chicago, IL","$1,710","30 E Adams St, Chicago, IL 60603",Studio - 2 Bed
+"SKY55, Chicago, IL","$1,995","1255 S Michigan Ave, Chicago, IL 60605",1-2 Bed
+"1251 S Michigan - Senior Living, Chicago, IL",$705,"1251 S Michigan Ave, Chicago, IL 60605",Studio - 1 Bed
+"OneEleven, Chicago, IL","$1,823","111 W Wacker Dr, Chicago, IL 60601",Studio - 3 Bed
+"City Gardens - No Apartments Available, Chicago, IL",$895,"312 S Maplewood Ct, Chicago, IL 60612",1 Bed
+"Mondial River West, Chicago, IL","$1,850","910 W Huron St, Chicago, IL 60642",Studio - 4 Bed
+"Parc Huron, Chicago, IL","$2,196","469 W Huron St, Chicago, IL 60654",1-3 Bed
+"Millennium Park Plaza, Chicago, IL","$1,695","151-155 N Michigan Ave, Chicago, IL 60601",Studio - 3 Bed
+"The Hudson, Chicago, IL","$2,125","750 N Hudson Ave, Chicago, IL 60654",1-3 Bed
+"640 North Wells, Chicago, IL","$2,310","640 N Wells St, Chicago, IL 60654",Studio - 3 Bed
+"The Gallery on Wells, Chicago, IL","$1,561","167 W Erie St, Chicago, IL 60654",Studio - 3 Bed
+"The Ardus, Chicago, IL","$1,535","676 N La Salle Dr, Chicago, IL 60654",Studio - 1 Bed
+"State and Grand, Chicago, IL","$1,940","505 N State St, Chicago, IL 60654",1-3 Bed
+"Exhibit on Superior, Chicago, IL","$1,651","165 W Superior St, Chicago, IL 60654",Studio - 3 Bed
+"Gramercy Row Apartments, Chicago, IL","$1,080","658-662 N Dearborn St, Chicago, IL 60654",Studio - 2 Bed
+"west77, Chicago, IL","$1,535","77 W Huron, Chicago, IL 60654",Studio - 4 Bed
+"NEXT Apartments, Chicago, IL","$1,633","347 W Chestnut St, Chicago, IL 60610",Studio - 3 Bed
+"The Bush Temple, Chicago, IL","$1,450","108 W Chicago Ave, Chicago, IL 60654",Studio - 2 Bed
+"Niche 905, Chicago, IL","$2,036","905 N Orleans St, Chicago, IL 60610",Studio - 3 Bed
+"Residences at 8 East Huron, Chicago, IL","$2,427","8 E Huron St, Chicago, IL 60611",1-3 Bed
+"100 West Chestnut Apartments, Chicago, IL","$1,774","100 W Chestnut St, Chicago, IL 60610",1-2 Bed
+"55 W. Chestnut, Chicago, IL","$1,652","55 W Chestnut St, Chicago, IL 60610",1 Bed
+"The Bernardin, Chicago, IL","$2,039","747 N Wabash Ave, Chicago, IL 60611",Studio - 2 Bed
+"465 North Park, Chicago, IL","$1,952","465 N Park Dr, Chicago, IL 60611",Studio - 3 Bed
+"The Chicagoan, CHICAGO, IL","$1,978","750 N RUSH St, CHICAGO, IL 60611",1-2 Bed
+"Two West, Chicago, IL","$3,635","2 W Delaware Pl, Chicago, IL 60610",1-5 Bed
+"TWO Old Town Park, Chicago, IL","$2,073","202 W Hill St, Chicago, IL 60610",Studio - 3 Bed
+"Atrium at Old Town Park, Chicago, IL","$1,417","303 W Division St, Chicago, IL 60610",Studio - 2 Bed
+"McClurg Court, Chicago, IL","$1,485","333 E Ontario St, Chicago, IL 60611",Studio - 2 Bed
+"Dearborn Plaza, Chicago, IL",$965,"1030 N Dearborn St, Chicago, IL 60610",Studio
+"1100 N Dearborn, Chicago, IL","$1,360","1100 N Dearborn St, Chicago, IL 60610",Studio - 2 Bed
+"1111 N. Dearborn, Chicago, IL","$1,491","1111 N Dearborn Ave, Chicago, IL 60610",Studio - 3 Bed
+"Dearborn North, Chicago, IL","$1,100","1117 N Dearborn St, Chicago, IL 60610",Studio - 1 Bed
+"The Chatelaine, Chicago, IL","$2,000","215 E Chestnut St, Chicago, IL 60611",1-4 Bed
+"1225 Old Town, Chicago, IL",Call for Rent,"1225 N Wells St, Chicago, IL 60610",Studio - 3 Bed
+"Park Dearborn, Chicago, IL","$1,195","1260 N Dearborn St, Chicago, IL 60610",Studio - 1 Bed
+"Reside on Jackson, Chicago, IL","$2,145","1241 W Jackson Blvd, Chicago, IL 60607",1-3 Bed
+"The Aberdeen West Loop, Chicago, IL","$1,565","4-22 N Aberdeen St, Chicago, IL 60607",Studio - 3 Bed
+"1313 Randolph Street Lofts, Chicago, IL","$1,721","1313 W Randolph St, Chicago, IL 60607",Studio - 2 Bed
+"The Lofts at Gin Alley, Chicago, IL","$2,099","120 N Green St, Chicago, IL 60607",Studio - 3 Bed
+"Westhaven Park, Chicago, IL",$770,"1949 W Lake St, Chicago, IL 60612",1-3 Bed
+"TRIO Apartments, Chicago, IL","$2,060","670 W Wayman St, Chicago, IL 60661",1-3 Bed
+"Reside on Green Street, Chicago, IL","$1,678","504 N Green St, Chicago, IL 60642",Studio - 3 Bed
+"One 333, Chicago, IL","$1,866","1333 S Wabash Ave, Chicago, IL 60605",1-3 Bed
+"Hubbard Place, Chicago, IL","$1,736","360 W Hubbard St, Chicago, IL 60654",Studio - 2 Bed
+"Luxe on Chicago, Chicago, IL","$1,635","1838 W Chicago Ave, Chicago, IL 60622",Studio - 3 Bed
+"440 N. Wabash Ave., Chicago, IL","$1,495","440 N Wabash Ave, Chicago, IL 60611",Studio - 2 Bed
+"Columbus Plaza, Chicago, IL","$1,568","233 E Wacker Dr, Chicago, IL 60601",Studio - 2 Bed
+"10 E. Ontario St., Chicago, IL","$1,975","10 E Ontario St, Chicago, IL 60611",Studio - 2 Bed
+"Asbury Plaza, Chicago, IL","$1,622","750 N Dearborn St, Chicago, IL 60654",Studio - 2 Bed
+"Chestnut Tower, Chicago, IL","$1,804","121 W Chestnut St, Chicago, IL 60610",Studio - 3 Bed
+"Chestnut Row Homes, Chicago, IL","$15,000","111 W Chestnut St, Chicago, IL 60610",4 Bed
+"North Harbor Tower, Chicago, IL","$1,515","175 N Harbor Dr, Chicago, IL 60601",Studio - 3 Bed
+"State &amp; Chestnut, Chicago, IL","$1,960","845 N State St, Chicago, IL 60610",Studio - 2 Bed
+"The Streeter, Chicago, IL","$1,637","345 E Ohio St, Chicago, IL 60611",Studio - 3 Bed
+"Sienna, Chicago, IL","$2,200","423 W Ohio St, Chicago, IL 60611",1-2 Bed
+"1120 N. LaSalle, Chicago, IL","$1,458","1120 LaSalle Dr, Chicago, IL 60610",Studio - 2 Bed
+"ONE Old Town Park, Chicago, IL","$1,690","1140 N Wells St, Chicago, IL 60610",Studio - 3 Bed
+"The Oliver on LaSalle, Chicago, IL","$1,100","1140 N Lasalle St, Chicago, IL 60610",Studio - 1 Bed
+"Elm Street Plaza, Chicago, IL","$1,545","1130 N Dearborn St, Chicago, IL 60610",Studio - 2 Bed
+"The Scott Residences, Chicago, IL","$2,065","211 W Scott St, Chicago, IL 60610",Studio - 3 Bed
+"The Clark, Chicago, IL","$1,700","1201 N Clark St, Chicago, IL 60610",Studio - 2 Bed
+"1325 N. Wells, Chicago, IL","$2,295","1325 N Wells St, Chicago, IL 60610",1-2 Bed
+"Canterbury Court Apartments, Chicago, IL","$1,200","1220 N State Pky, Chicago, IL 60610",Studio - 1 Bed
+"1435 North Wells, Chicago, IL","$1,756","1435-1443 N Wells St, Chicago, IL 60610",Studio - 2 Bed
+"Astor House, Chicago, IL",Call for Rent,"1340 N Astor St, Chicago, IL 60610",1-2 Bed
+"1518 W Chicago Ave Unit 3, Chicago, IL","$2,799","1518 W Chicago Ave Unit 3, Chicago, IL",2 Bed
+"1846 Superior W St Unit 2, Chicago, IL","$1,950","1846 Superior W St Unit 2, Chicago, IL",Condo for Rent
+"2024 W Huron St Unit 2nd floor, Chicago, IL","$2,300","2024 W Huron St Unit 2nd floor, Chicago, IL",3 Bed
+"1375 Milwaukee N Ave Unit 2R, Chicago, IL","$2,700","1375 Milwaukee N Ave Unit 2R, Chicago, IL",Condo for Rent
+"915 S Loomis St Unit 2, Chicago, IL","$3,000","915 S Loomis St Unit 2, Chicago, IL",5 Bed
+"917 S Loomis St Unit 1, Chicago, IL","$3,100","917 S Loomis St Unit 1, Chicago, IL",5 Bed
+"900 Ashland S Ave Unit 1, Chicago, IL","$2,667","900 Ashland S Ave Unit 1, Chicago, IL",2 Bed
+"1224 W Van Buren St Unit 505, Chicago, IL","$2,300","1224 W Van Buren St Unit 505, Chicago, IL",1 Bed
+"324 S Racine Ave Unit 2NR, Chicago, IL","$1,995","324 S Racine Ave Unit 2NR, Chicago, IL",1 Bed
+"324 Racine S Ave Unit 1, Chicago, IL","$1,850","324 Racine S Ave Unit 1, Chicago, IL",1 Bed
+"324 S Racine Ave Unit 4S, Chicago, IL","$3,495","324 S Racine Ave Unit 4S, Chicago, IL",3 Bed
+"1035 W Van Buren St Unit 2, Chicago, IL","$2,736","1035 W Van Buren St Unit 2, Chicago, IL",1 Bed
+"1002 W Van Buren St Unit 306, Chicago, IL","$3,000","1002 W Van Buren St Unit 306, Chicago, IL",2 Bed
+"225 Sangamon S St Unit 610, Chicago, IL","$2,750","225 Sangamon S St Unit 610, Chicago, IL",Condo for Rent
+"1451 S Halsted St Unit 1B, Chicago, IL","$2,700","1451 S Halsted St Unit 1B, Chicago, IL",Condo for Rent
+"850 W Adams St Unit 4E, Chicago, IL","$2,225","850 W Adams St Unit 4E, Chicago, IL",1 Bed
+"1228 W Monroe St Unit 404, Chicago, IL","$2,200","1228 W Monroe St Unit 404, Chicago, IL",1 Bed
+"1508 W 17th St Unit R2, Chicago, IL","$1,300","1508 W 17th St Unit R2, Chicago, IL",2 Bed
+"700 W Van Buren St Unit 703, Chicago, IL","$2,100","700 W Van Buren St Unit 703, Chicago, IL",1 Bed
+"6 Laflin S St Unit 307, Chicago, IL","$2,280","6 Laflin S St Unit 307, Chicago, IL",Condo for Rent
+"1816 S Peoria St Unit 1, Chicago, IL","$2,000","1816 S Peoria St Unit 1, Chicago, IL",3 Bed
+"1757 17th W St Unit 3, Chicago, IL","$2,040","1757 17th W St Unit 3, Chicago, IL",3 Bed
+"701 S Wells St Unit 1506, Chicago, IL","$2,435","701 S Wells St Unit 1506, Chicago, IL",2 Bed
+"732 S Financial Pl Unit 507, Chicago, IL","$2,350","732 S Financial Pl Unit 507, Chicago, IL",Condo for Rent
+"321 S Sangamon St Unit 807, Chicago, IL","$2,100","321 S Sangamon St Unit 807, Chicago, IL",1 Bed
+"1753 21st W St Unit 1, Chicago, IL","$1,500","1753 21st W St Unit 1, Chicago, IL",3 Bed
+"1043 Oakley S Blvd Unit 1, Chicago, IL","$1,650","1043 Oakley S Blvd Unit 1, Chicago, IL",3 Bed
+"650 W Wayman St Unit 606C, Chicago, IL","$2,100","650 W Wayman St Unit 606C, Chicago, IL",Condo for Rent
+"740 Federal S St Unit 910, Chicago, IL","$2,700","740 Federal S St Unit 910, Chicago, IL",Condo for Rent
+"1162 Hubbard W St Unit 304, Chicago, IL","$3,300","1162 Hubbard W St Unit 304, Chicago, IL",Condo for Rent
+"836 W Hubbard St Unit 302, Chicago, IL","$1,850","836 W Hubbard St Unit 302, Chicago, IL",1 Bed
+"537 S Dearborn St Unit 10A, Chicago, IL","$2,195","537 S Dearborn St Unit 10A, Chicago, IL",2 Bed
+"633 Plymouth S Ct Unit 904, Chicago, IL","$1,775","633 Plymouth S Ct Unit 904, Chicago, IL",Condo for Rent
+"235 W Van Buren St Unit 2514, Chicago, IL","$2,540","235 W Van Buren St Unit 2514, Chicago, IL",Condo for Rent
+"2442 W Fillmore St Unit 3, Chicago, IL","$1,860","2442 W Fillmore St Unit 3, Chicago, IL",3 Bed
+"2442 W Fillmore St Unit Apt 2, Chicago, IL","$1,830","2442 W Fillmore St Unit Apt 2, Chicago, IL",3 Bed
+"400 N Clinton St Unit 404, Chicago, IL","$1,995","400 N Clinton St Unit 404, Chicago, IL",1 Bed
+"731 W Ohio St Unit #3, Chicago, IL","$1,750","731 W Ohio St Unit #3, Chicago, IL",Studio
+"910 S Michigan Ave Unit 1015, Chicago, IL","$2,695","910 S Michigan Ave Unit 1015, Chicago, IL",Condo for Rent
+"1250 S Michigan Ave Unit 1002, Chicago, IL","$1,850","1250 S Michigan Ave Unit 1002, Chicago, IL",1 Bed
+"622 Ashland N Ave Unit 3, Chicago, IL","$3,900","622 Ashland N Ave Unit 3, Chicago, IL",Condo for Rent
+"6 E Monroe St Unit 1401, Chicago, IL","$2,300","6 E Monroe St Unit 1401, Chicago, IL",Condo for Rent
+"535 Michigan N Ave Unit 512, Chicago, IL","$1,525","535 Michigan N Ave Unit 512, Chicago, IL",Condo for Rent
+"1462 S Michigan Ave Unit 204, Chicago, IL","$2,400","1462 S Michigan Ave Unit 204, Chicago, IL",2 Bed
+"1464 S Michigan Ave Unit 2407, Chicago, IL","$4,800","1464 S Michigan Ave Unit 2407, Chicago, IL",3 Bed
+"1935 Archer S Ave Unit 518, Chicago, IL","$1,750","1935 Archer S Ave Unit 518, Chicago, IL",Condo for Rent
+"1935 S Archer Ave Unit 423, Chicago, IL","$1,740","1935 S Archer Ave Unit 423, Chicago, IL",Condo for Rent
+"925 W Huron St Unit 9, Chicago, IL","$2,450","925 W Huron St Unit 9, Chicago, IL",2 Bed
+"925 W Huron St Unit 509, Chicago, IL","$2,050","925 W Huron St Unit 509, Chicago, IL",1 Bed
+"925 W Huron St Unit 2, Chicago, IL","$1,950","925 W Huron St Unit 2, Chicago, IL",1 Bed
+"330 Illinois W St Unit C, Chicago, IL","$1,760","330 Illinois W St Unit C, Chicago, IL",1 Bed
+"330 W Illinois St Unit 1, Chicago, IL","$1,875","330 W Illinois St Unit 1, Chicago, IL",1 Bed
+"330 W Illinois St Unit S, Chicago, IL","$1,555","330 W Illinois St Unit S, Chicago, IL",Studio
+"200 Dearborn N St Unit 4303, Chicago, IL","$1,900","200 Dearborn N St Unit 4303, Chicago, IL",Condo for Rent
+"200 N Dearborn St Unit 1306, Chicago, IL","$2,795","200 N Dearborn St Unit 1306, Chicago, IL",Condo for Rent
+"1720 S Michigan Ave Unit 2810, Chicago, IL","$2,450","1720 S Michigan Ave Unit 2810, Chicago, IL",Condo for Rent
+"345 N LaSalle Dr Unit 1803, Chicago, IL","$3,250","345 N LaSalle Dr Unit 1803, Chicago, IL",Condo for Rent
+"330 Grand W Ave Unit 1601, Chicago, IL","$2,950","330 Grand W Ave Unit 1601, Chicago, IL",Condo for Rent
+"1702 W Superior St Unit 1, Chicago, IL","$1,700","1702 W Superior St Unit 1, Chicago, IL",3 Bed
+"375 W Erie St Unit 505, Chicago, IL","$2,200","375 W Erie St Unit 505, Chicago, IL",Condo for Rent
+"2812 S Grady Ct Unit 2R, Chicago, IL",$800,"2812 S Grady Ct Unit 2R, Chicago, IL",2 Bed
+"2320 23rd W Pl Unit 1, Chicago, IL","$1,650","2320 23rd W Pl Unit 1, Chicago, IL",3 Bed
+"630 N Franklin St Unit 616, Chicago, IL","$1,950","630 N Franklin St Unit 616, Chicago, IL",Condo for Rent
+"1345 Walton W St Unit 1, Chicago, IL","$2,100","1345 Walton W St Unit 1, Chicago, IL",3 Bed
+"835 N Wolcott Ave Unit 4FL, Chicago, IL","$3,600","835 N Wolcott Ave Unit 4FL, Chicago, IL",3 Bed
+"837 N Wolcott Ave Unit 1, Chicago, IL","$3,600","837 N Wolcott Ave Unit 1, Chicago, IL",3 Bed
+"848 N Winchester Ave Unit Garden, Chicago, IL","$2,200","848 N Winchester Ave Unit Garden, Chicago, IL",2 Bed
+"222 Columbus N Dr Unit 2105, Chicago, IL","$2,600","222 Columbus N Dr Unit 2105, Chicago, IL",Condo for Rent
+"2631 W Luther St Unit 1, Chicago, IL","$1,495","2631 W Luther St Unit 1, Chicago, IL",1 Bed
+"30 Huron E St Unit 5510, Chicago, IL","$2,000","30 Huron E St Unit 5510, Chicago, IL",Condo for Rent
+"2704 W 24th Pl Unit 1F, Chicago, IL","$1,450","2704 W 24th Pl Unit 1F, Chicago, IL",2 Bed
+"2704 W 24th Pl Unit 1, Chicago, IL","$1,200","2704 W 24th Pl Unit 1, Chicago, IL",2 Bed
+"1611 W Division St Unit 1, Chicago, IL","$2,695","1611 W Division St Unit 1, Chicago, IL",2 Bed
+"757 Wabash N Ave Unit 2-2, Chicago, IL","$3,475","757 Wabash N Ave Unit 2-2, Chicago, IL",2 Bed
+"211 E Ohio St Unit 1007, Chicago, IL","$1,800","211 E Ohio St Unit 1007, Chicago, IL",Condo for Rent
+"211 E Ohio St Unit 2612, Chicago, IL","$1,800","211 E Ohio St Unit 2612, Chicago, IL",Studio
+"211 E Ohio St Unit 819, Chicago, IL","$2,000","211 E Ohio St Unit 819, Chicago, IL",Condo for Rent
+"211 Ohio E St Unit 1109, Chicago, IL","$1,850","211 Ohio E St Unit 1109, Chicago, IL",Condo for Rent
+"313 Albany S Ave Unit 2, Chicago, IL","$1,225","313 Albany S Ave Unit 2, Chicago, IL",2 Bed
+"313 Albany S Ave Unit 1, Chicago, IL","$1,175","313 Albany S Ave Unit 1, Chicago, IL",2 Bed
+"420 Waterside E Dr Unit 304, Chicago, IL","$1,700","420 Waterside E Dr Unit 304, Chicago, IL",Condo for Rent
+"195 N Harbor Dr Unit 2001, Chicago, IL","$2,900","195 N Harbor Dr Unit 2001, Chicago, IL",Condo for Rent
+"401 E Ontario St Unit 1606, Chicago, IL","$2,050","401 E Ontario St Unit 1606, Chicago, IL",1 Bed
+"1368 W Evergreen Ave Unit 4M, Chicago, IL","$2,250","1368 W Evergreen Ave Unit 4M, Chicago, IL",2 Bed
+"441 Ohio E St Unit 1, Chicago, IL","$1,676","441 Ohio E St Unit 1, Chicago, IL",1 Bed
+"1122 Clark N St Unit 3307, Chicago, IL","$1,650","1122 Clark N St Unit 3307, Chicago, IL",Condo for Rent
+"474 N Lake Shore Dr Unit 2207, Chicago, IL","$1,600","474 N Lake Shore Dr Unit 2207, Chicago, IL",Studio
+"343 W Old Town Ct Unit 309, Chicago, IL","$2,875","343 W Old Town Ct Unit 309, Chicago, IL",2 Bed
+"1124 N Dearborn St Unit 1, Chicago, IL","$1,700","1124 N Dearborn St Unit 1, Chicago, IL",1 Bed
+"175 E Delaware Pl Unit 5106, Chicago, IL","$1,560","175 E Delaware Pl Unit 5106, Chicago, IL",Studio
+"100 Walton E St Unit 17 G, Chicago, IL","$1,900","100 Walton E St Unit 17 G, Chicago, IL",Condo for Rent
+"871 W Blackhawk St Unit 2-2, Chicago, IL","$2,955","871 W Blackhawk St Unit 2-2, Chicago, IL",2 Bed
+"2540 Augusta W Blvd Unit 1F, Chicago, IL","$1,700","2540 Augusta W Blvd Unit 1F, Chicago, IL",2 Bed
+"1220 N LaSalle St Unit K4, Chicago, IL","$1,495","1220 N LaSalle St Unit K4, Chicago, IL",Studio
+"1220 N LaSalle Dr Unit G2, Chicago, IL","$1,425","1220 N LaSalle Dr Unit G2, Chicago, IL",Studio
+"219 E Chestnut St Unit 1/1 u, Chicago, IL","$1,835","219 E Chestnut St Unit 1/1 u, Chicago, IL",1 Bed
+"219 E Chestnut St Unit 1, Chicago, IL","$1,830","219 E Chestnut St Unit 1, Chicago, IL",1 Bed
+"1164 N Dearborn St Unit 210, Chicago, IL","$1,175","1164 N Dearborn St Unit 210, Chicago, IL",Studio
+"2048 Evergreen W Ave Unit 2, Chicago, IL","$3,100","2048 Evergreen W Ave Unit 2, Chicago, IL",Condo for Rent
+"2048 Evergreen W Ave Unit 1, Chicago, IL","$2,300","2048 Evergreen W Ave Unit 1, Chicago, IL",1 Bed
+"65 Cedar E St Unit 2B, Chicago, IL","$1,400","65 Cedar E St Unit 2B, Chicago, IL",Condo for Rent
+"834 California N Ave Unit Apt 1, Chicago, IL","$1,800","834 California N Ave Unit Apt 1, Chicago, IL",2 Bed
+"1220 N Dearborn St Unit 3, Chicago, IL","$1,950","1220 N Dearborn St Unit 3, Chicago, IL",2 Bed
+"329 Schiller W St, Chicago, IL","$6,200","329 Schiller W St, Chicago, IL",Townhome for Rent
+"329 Schiller W St, Chicago, IL","$6,000","329 Schiller W St, Chicago, IL",Townhome for Rent
+"30 E Elm St Unit 12E, Chicago, IL","$1,835","30 E Elm St Unit 12E, Chicago, IL",1 Bed
+"1221 N Dearborn St Unit 404N, Chicago, IL","$2,350","1221 N Dearborn St Unit 404N, Chicago, IL",Condo for Rent
+"1612 Le Moyne W St Unit 3, Chicago, IL","$1,800","1612 Le Moyne W St Unit 3, Chicago, IL",2 Bed
+"1255 N Sandburg Terrace Unit 1210, Chicago, IL","$2,000","1255 N Sandburg Terrace Unit 1210, Chicago, IL",Condo for Rent
+"30 E Division St Unit 11a, Chicago, IL","$1,700","30 E Division St Unit 11a, Chicago, IL",Condo for Rent
+"1645 Pierce W Ave Unit 1, Chicago, IL","$2,195","1645 Pierce W Ave Unit 1, Chicago, IL",2 Bed
+"1150 Lake Shore N Dr Unit 5L, Chicago, IL","$1,450","1150 Lake Shore N Dr Unit 5L, Chicago, IL",Condo for Rent
+"1502 Cleveland N Ave Unit #2, Chicago, IL","$1,750","1502 Cleveland N Ave Unit #2, Chicago, IL",1 Bed
+"1441 N Elk Grove Ave Unit 3R, Chicago, IL","$1,650","1441 N Elk Grove Ave Unit 3R, Chicago, IL",Condo for Rent
+"1519 N Milwaukee Ave Unit 1, Chicago, IL","$3,025","1519 N Milwaukee Ave Unit 1, Chicago, IL",2 Bed
+"1307 N Artesian Ave Unit 2, Chicago, IL","$2,095","1307 N Artesian Ave Unit 2, Chicago, IL",2 Bed
+"1523 N Elk Grove Ave Unit 3, Chicago, IL","$2,300","1523 N Elk Grove Ave Unit 3, Chicago, IL",3 Bed
+"1344 Dearborn N St Unit 4D, Chicago, IL","$1,540","1344 Dearborn N St Unit 4D, Chicago, IL",Condo for Rent
+"1017 N Mozart St Unit #2, Chicago, IL","$1,850","1017 N Mozart St Unit #2, Chicago, IL",3 Bed
+"1347 N Dearborn Pkwy Unit 302, Chicago, IL","$1,320","1347 N Dearborn Pkwy Unit 302, Chicago, IL",Studio
+"915 S Loomis St Unit 1, Chicago, IL","$1,550","915 S Loomis St Unit 1, Chicago, IL",2 Bed
+"1455 W Taylor St Unit 3, Chicago, IL","$3,400","1455 W Taylor St Unit 3, Chicago, IL",4 Bed
+"929 S Laflin St Unit 1, Chicago, IL","$2,275","929 S Laflin St Unit 1, Chicago, IL",3 Bed
+"1013 Laflin S St Unit 2, Chicago, IL","$1,700","1013 Laflin S St Unit 2, Chicago, IL",2 Bed
+"708 S Laflin St Unit 1F, Chicago, IL","$1,800","708 S Laflin St Unit 1F, Chicago, IL",2 Bed
+"706 S Laflin St Unit 2R, Chicago, IL","$1,900","706 S Laflin St Unit 2R, Chicago, IL",2 Bed
+"902 S Ashland Ave Unit 0s, Chicago, IL","$1,595","902 S Ashland Ave Unit 0s, Chicago, IL",Studio
+"902 S Ashland Ave Unit 1j, Chicago, IL","$1,737","902 S Ashland Ave Unit 1j, Chicago, IL",1 Bed
+"902 S Ashland Ave Unit 1s, Chicago, IL","$1,730","902 S Ashland Ave Unit 1s, Chicago, IL",1 Bed
+"1224 W Van Buren St Unit 212, Chicago, IL","$3,000","1224 W Van Buren St Unit 212, Chicago, IL",Condo for Rent
+"1101 W Jackson Blvd Unit S1, Chicago, IL","$1,760","1101 W Jackson Blvd Unit S1, Chicago, IL",Studio
+"1019 W Jackson Blvd Unit 03k, Chicago, IL","$3,200","1019 W Jackson Blvd Unit 03k, Chicago, IL",Condo for Rent
+"948 15th W Pl Unit 2B, Chicago, IL","$2,400","948 15th W Pl Unit 2B, Chicago, IL",Condo for Rent
+"910 W Jackson Blvd Unit 1301, Chicago, IL","$2,374","910 W Jackson Blvd Unit 1301, Chicago, IL",1 Bed
+"816 W Van Buren St Unit 161, Chicago, IL","$3,200","816 W Van Buren St Unit 161, Chicago, IL",2 Bed
+"521 N Racine Ave Unit 1, Chicago, IL","$2,400","521 N Racine Ave Unit 1, Chicago, IL",Condo for Rent
+"1722 W Hastings St Unit 3, Chicago, IL","$2,100","1722 W Hastings St Unit 3, Chicago, IL",Condo for Rent
+"1722 W Hastings St Unit 3, Chicago, IL","$2,000","1722 W Hastings St Unit 3, Chicago, IL",Condo for Rent
+"901 W Adams St Unit 818, Chicago, IL","$2,319","901 W Adams St Unit 818, Chicago, IL",1 Bed
+"1623 S Loomis St Unit 2, Chicago, IL","$1,875","1623 S Loomis St Unit 2, Chicago, IL",2 Bed
+"1244 W Monroe St Unit 10F, Chicago, IL","$3,200","1244 W Monroe St Unit 10F, Chicago, IL",Condo for Rent
+"1137 W 17th St Unit 1, Chicago, IL","$2,800","1137 W 17th St Unit 1, Chicago, IL",4 Bed
+"732 W 15th Pl Unit 1, Chicago, IL","$2,850","732 W 15th Pl Unit 1, Chicago, IL",2 Bed
+"1615 S Morgan St Unit 1R, Chicago, IL","$1,500","1615 S Morgan St Unit 1R, Chicago, IL",2 Bed
+"1946 S Racine Ave Unit 4F, Chicago, IL","$2,395","1946 S Racine Ave Unit 4F, Chicago, IL",3 Bed
+"26 S Aberdeen St Unit 1, Chicago, IL","$4,600","26 S Aberdeen St Unit 1, Chicago, IL",Condo for Rent
+"233 S Halsted St Unit 98-3301, Chicago, IL","$5,492","233 S Halsted St Unit 98-3301, Chicago, IL",3 Bed
+"1515 S Halsted St Unit 205, Chicago, IL","$1,799","1515 S Halsted St Unit 205, Chicago, IL",Condo for Rent
+"1509 S Halsted St Unit 306, Chicago, IL","$1,750","1509 S Halsted St Unit 306, Chicago, IL",Condo for Rent
+"1219 W Madison St Unit 1050, Chicago, IL","$3,350","1219 W Madison St Unit 1050, Chicago, IL",2 Bed
+"200 S Halsted St Unit 2008, Chicago, IL","$1,837","200 S Halsted St Unit 2008, Chicago, IL",Studio
+"1131 W Madison St Unit 1, Chicago, IL","$1,975","1131 W Madison St Unit 1, Chicago, IL",1 Bed
+"835 S Wolcott Ave Unit 4, Chicago, IL","$3,200","835 S Wolcott Ave Unit 4, Chicago, IL",3 Bed
+"700 W Van Buren St Unit PH-03, Chicago, IL","$3,000","700 W Van Buren St Unit PH-03, Chicago, IL",Condo for Rent
+"1819 S Allport St Unit 1R, Chicago, IL","$1,400","1819 S Allport St Unit 1R, Chicago, IL",2 Bed
+"333 S Desplaines St Unit #412, Chicago, IL","$2,400","333 S Desplaines St Unit #412, Chicago, IL",Condo for Rent
+"1838 S May St Unit 2F, Chicago, IL","$1,250","1838 S May St Unit 2F, Chicago, IL",2 Bed
+"210 S Desplaines St Unit 15044, Chicago, IL","$2,100","210 S Desplaines St Unit 15044, Chicago, IL",Condo for Rent
+"113 S Paulina St Unit 3, Chicago, IL","$1,775","113 S Paulina St Unit 3, Chicago, IL",2 Bed
+"113 S Paulina St Unit 2, Chicago, IL","$1,800","113 S Paulina St Unit 2, Chicago, IL",3 Bed
+"1807 S Ashland Ave Unit 1, Chicago, IL","$2,000","1807 S Ashland Ave Unit 1, Chicago, IL",3 Bed
+"1260 W Washington Blvd Unit 602, Chicago, IL","$2,490","1260 W Washington Blvd Unit 602, Chicago, IL",1 Bed
+"935 W Washington Blvd Unit 1s, Chicago, IL","$2,320","935 W Washington Blvd Unit 1s, Chicago, IL",1 Bed
+"935 W Washington Blvd Unit 0s, Chicago, IL","$1,990","935 W Washington Blvd Unit 0s, Chicago, IL",Studio
+"917 W Washington Blvd Unit 405, Chicago, IL","$2,640","917 W Washington Blvd Unit 405, Chicago, IL",1 Bed
+"2022 S Throop St Unit 1W, Chicago, IL","$1,925","2022 S Throop St Unit 1W, Chicago, IL",2 Bed
+"1923 S Peoria St Unit 1R, Chicago, IL","$1,150","1923 S Peoria St Unit 1R, Chicago, IL",2 Bed
+"1527 W Cullerton St Unit 2, Chicago, IL","$1,650","1527 W Cullerton St Unit 2, Chicago, IL",3 Bed
+"1820 W 18th St Unit 3, Chicago, IL","$1,895","1820 W 18th St Unit 3, Chicago, IL",3 Bed
+"130 S Canal St Unit 804!, Chicago, IL","$3,300","130 S Canal St Unit 804!, Chicago, IL",Condo for Rent
+"2109 W Polk St Unit 02, Chicago, IL","$2,200","2109 W Polk St Unit 02, Chicago, IL",Condo for Rent
+"200 N Ada St Unit 13, Chicago, IL","$2,510","200 N Ada St Unit 13, Chicago, IL",1 Bed
+"600 W Madison St Unit 1003, Chicago, IL","$2,045","600 W Madison St Unit 1003, Chicago, IL",Studio
+"600 W Madison St Unit 913, Chicago, IL","$2,665","600 W Madison St Unit 913, Chicago, IL",1 Bed
+"562 W 18th St Unit 1W, Chicago, IL","$3,300","562 W 18th St Unit 1W, Chicago, IL",Condo for Rent
+"562 W 18th St Unit 3E, Chicago, IL","$3,900","562 W 18th St Unit 3E, Chicago, IL",Condo for Rent
+"912 W Lake St Unit 05-B, Chicago, IL","$2,305","912 W Lake St Unit 05-B, Chicago, IL",Condo for Rent
+"659 W Randolph St Unit #411, Chicago, IL","$2,250","659 W Randolph St Unit #411, Chicago, IL",Condo for Rent
+"817 W Lake St Unit 120, Chicago, IL","$2,428","817 W Lake St Unit 120, Chicago, IL",1 Bed
+"817 W Lake St Unit 120, Chicago, IL","$4,398","817 W Lake St Unit 120, Chicago, IL",3 Bed
+"1837 S Canalport Ave Unit 3W, Chicago, IL","$4,200","1837 S Canalport Ave Unit 3W, Chicago, IL",Condo for Rent
+"100 N Hermitage Ave Unit 915, Chicago, IL","$1,600","100 N Hermitage Ave Unit 915, Chicago, IL",Condo for Rent
+"2111 S Halsted St Unit 406, Chicago, IL","$2,475","2111 S Halsted St Unit 406, Chicago, IL",Condo for Rent
+"801 S Wells St Unit 1011, Chicago, IL","$2,700","801 S Wells St Unit 1011, Chicago, IL",1 Bed
+"235 Van Buren W St Unit 3619, Chicago, IL","$2,400","235 Van Buren W St Unit 3619, Chicago, IL",2 Bed
+"1138 S Delano Ct Unit 411, Chicago, IL","$2,699","1138 S Delano Ct Unit 411, Chicago, IL",2 Bed
+"834 W Fulton Market Unit 120, Chicago, IL","$2,496","834 W Fulton Market Unit 120, Chicago, IL",1 Bed
+"2223 W Polk St Unit 2, Chicago, IL","$3,000","2223 W Polk St Unit 2, Chicago, IL",Condo for Rent
+"2225 Polk W St Unit 2, Chicago, IL","$3,000","2225 Polk W St Unit 2, Chicago, IL",Condo for Rent
+"501 S Wells St Unit 1716, Chicago, IL","$1,703","501 S Wells St Unit 1716, Chicago, IL",1 Bed
+"2200 Harrison W St Unit 813, Chicago, IL","$1,500","2200 Harrison W St Unit 813, Chicago, IL",Condo for Rent
+"150 N Clinton St Unit 137, Chicago, IL","$2,317","150 N Clinton St Unit 137, Chicago, IL",1 Bed
+"150 N Clinton St Unit 137, Chicago, IL","$1,865","150 N Clinton St Unit 137, Chicago, IL",Studio
+"1154 S Clark St Unit 1514, Chicago, IL","$1,950","1154 S Clark St Unit 1514, Chicago, IL",1 Bed
+"2002 W Warren Blvd Unit 5SE, Chicago, IL","$1,950","2002 W Warren Blvd Unit 5SE, Chicago, IL",2 Bed
+"2000 W Warren Blvd Unit 5SW, Chicago, IL","$2,150","2000 W Warren Blvd Unit 5SW, Chicago, IL",Condo for Rent
+"2109 W 18th St Unit 1, Chicago, IL","$1,199","2109 W 18th St Unit 1, Chicago, IL",1 Bed
+"161 N Canal St Unit 3501, Chicago, IL","$2,935","161 N Canal St Unit 3501, Chicago, IL",2 Bed
+"616 W Fulton St Unit 404F, Chicago, IL","$2,500","616 W Fulton St Unit 404F, Chicago, IL",Condo for Rent
+"820 S Park Terrace Unit 302, Chicago, IL","$1,936","820 S Park Terrace Unit 302, Chicago, IL",1 Bed
+"811 S Claremont Ave Unit 3, Chicago, IL","$2,295","811 S Claremont Ave Unit 3, Chicago, IL",3 Bed
+"1340 W Hubbard St Unit 1, Chicago, IL","$1,900","1340 W Hubbard St Unit 1, Chicago, IL",2 Bed
+"2047 N Hoyne Ave Unit 2RS, Chicago, IL","$1,650","2047 N Hoyne Ave Unit 2RS, Chicago, IL",Studio
+"370 N Desplaines St Unit 6, Chicago, IL","$1,958","370 N Desplaines St Unit 6, Chicago, IL",1 Bed
+"447 N Carpenter St Unit 2R, Chicago, IL","$1,925","447 N Carpenter St Unit 2R, Chicago, IL",1 Bed
+"2056 W Cullerton St Unit 2, Chicago, IL","$1,850","2056 W Cullerton St Unit 2, Chicago, IL",4 Bed
+"225 N Canal St Unit 1, Chicago, IL","$1,860","225 N Canal St Unit 1, Chicago, IL",Studio
+"225 N Canal St Unit 1, Chicago, IL","$2,250","225 N Canal St Unit 1, Chicago, IL",1 Bed
+"410 N Milwaukee Ave Unit 501, Chicago, IL","$1,985","410 N Milwaukee Ave Unit 501, Chicago, IL",1 Bed
+"410 N Milwaukee Ave Unit 3804, Chicago, IL","$1,892","410 N Milwaukee Ave Unit 3804, Chicago, IL",Studio
+"2153 W 18th Pl Unit 3, Chicago, IL","$1,800","2153 W 18th Pl Unit 3, Chicago, IL",2 Bed
+"814 Hubbard W St Unit 201, Chicago, IL","$1,581","814 Hubbard W St Unit 201, Chicago, IL",Condo for Rent
+"1247 S Plymouth Ct, Chicago, IL","$6,500","1247 S Plymouth Ct, Chicago, IL",House for Rent
+"579 Kinzie W St Unit 3205, Chicago, IL","$1,725","579 Kinzie W St Unit 3205, Chicago, IL",1 Bed
+"801 S State St Unit 2203, Chicago, IL","$1,990","801 S State St Unit 2203, Chicago, IL",1 Bed
+"231 W 18th St Unit 4B, Chicago, IL","$1,980","231 W 18th St Unit 4B, Chicago, IL",Condo for Rent
+"600 W Kinzie St Unit 2501, Chicago, IL","$1,865","600 W Kinzie St Unit 2501, Chicago, IL",1 Bed
+"811 S State St Unit 1810, Chicago, IL","$2,085","811 S State St Unit 1810, Chicago, IL",2 Bed
+"656 W Hubbard St Unit 2704, Chicago, IL","$1,919","656 W Hubbard St Unit 2704, Chicago, IL",Studio
+"1 E 8th St Unit 802, Chicago, IL","$2,300","1 E 8th St Unit 802, Chicago, IL",Condo for Rent
+"2223 W 18th Pl Unit 1R, Chicago, IL","$1,400","2223 W 18th Pl Unit 1R, Chicago, IL",2 Bed
+"1402 S State St Unit A12, Chicago, IL","$1,899","1402 S State St Unit A12, Chicago, IL",1 Bed
+"212 W Randolph St Unit 913, Chicago, IL","$1,579","212 W Randolph St Unit 913, Chicago, IL",Studio
+"1325 S State St Unit 415, Chicago, IL","$2,180","1325 S State St Unit 415, Chicago, IL",1 Bed
+"1639 Grand W Ave Unit 202, Chicago, IL","$2,675","1639 Grand W Ave Unit 202, Chicago, IL",2 Bed
+"223 W Lake St Unit 2n, Chicago, IL","$4,799","223 W Lake St Unit 2n, Chicago, IL",3 Bed
+"2000 S Wells St Unit 2F, Chicago, IL","$1,400","2000 S Wells St Unit 2F, Chicago, IL",Condo for Rent
+"900 S Wabash Ave Unit 506, Chicago, IL","$2,000","900 S Wabash Ave Unit 506, Chicago, IL",Condo for Rent
+"110 W Madison St Unit 35, Chicago, IL","$1,996","110 W Madison St Unit 35, Chicago, IL",1 Bed
+"110 W Madison St Unit 35, Chicago, IL","$1,675","110 W Madison St Unit 35, Chicago, IL",Studio
+"110 W Madison St Unit 35, Chicago, IL","$1,780","110 W Madison St Unit 35, Chicago, IL",Studio
+"2447 Lexington W St Unit 3, Chicago, IL","$1,950","2447 Lexington W St Unit 3, Chicago, IL",3 Bed
+"1530 S State St Unit 918, Chicago, IL","$2,300","1530 S State St Unit 918, Chicago, IL",Condo for Rent
+"1446 N Leavitt St Unit 2R, Chicago, IL","$2,600","1446 N Leavitt St Unit 2R, Chicago, IL",4 Bed
+"660 W Grand Ave Unit 3WEST, Chicago, IL","$1,900","660 W Grand Ave Unit 3WEST, Chicago, IL",Condo for Rent
+"1503 S State St Unit #812, Chicago, IL","$3,500","1503 S State St Unit #812, Chicago, IL",Condo for Rent
+"1464 W Ohio St Unit 2, Chicago, IL","$1,800","1464 W Ohio St Unit 2, Chicago, IL",2 Bed
+"2333 W Madison St Unit 615, Chicago, IL","$2,007","2333 W Madison St Unit 615, Chicago, IL",1 Bed
+"910 S Michigan Ave Unit #616, Chicago, IL","$2,500","910 S Michigan Ave Unit #616, Chicago, IL",Condo for Rent
+"501 N Clinton St Unit 3006, Chicago, IL","$4,000","501 N Clinton St Unit 3006, Chicago, IL",2 Bed
+"800 S Michigan Ave Unit 4104, Chicago, IL","$1,960","800 S Michigan Ave Unit 4104, Chicago, IL",1 Bed
+"800 S Michigan Ave Unit 3406, Chicago, IL","$2,305","800 S Michigan Ave Unit 3406, Chicago, IL",1 Bed
+"1345 S Wabash Ave Unit 1202, Chicago, IL","$2,200","1345 S Wabash Ave Unit 1202, Chicago, IL",Condo for Rent
+"519 N Hartland Ct, Chicago, IL","$4,995","519 N Hartland Ct, Chicago, IL",Townhome for Rent
+"500 N Kingsbury St Unit 2302, Chicago, IL","$2,199","500 N Kingsbury St Unit 2302, Chicago, IL",1 Bed
+"1120 S Michigan Ave Unit 2810, Chicago, IL","$1,915","1120 S Michigan Ave Unit 2810, Chicago, IL",1 Bed
+"22 S Western Ave Unit 301F, Chicago, IL","$1,900","22 S Western Ave Unit 301F, Chicago, IL",Condo for Rent
+"1319 S Michigan Ave Unit 3702, Chicago, IL","$2,300","1319 S Michigan Ave Unit 3702, Chicago, IL",1 Bed
+"354 W Hubbard St Unit 506, Chicago, IL","$2,302","354 W Hubbard St Unit 506, Chicago, IL",1 Bed
+"354 W Hubbard St Unit 80-2, Chicago, IL","$3,887","354 W Hubbard St Unit 80-2, Chicago, IL",2 Bed
+"354 W Hubbard St Unit 107, Chicago, IL","$3,416","354 W Hubbard St Unit 107, Chicago, IL",1 Bed
+"50 W Randolph St Unit 706, Chicago, IL","$1,695","50 W Randolph St Unit 706, Chicago, IL",1 Bed
+"2541 W Congress Pkwy Unit 1, Chicago, IL","$2,000","2541 W Congress Pkwy Unit 1, Chicago, IL",2 Bed
+"669 N Peoria St Unit GS, Chicago, IL","$2,500","669 N Peoria St Unit GS, Chicago, IL",Condo for Rent
+"711 N Milwaukee Ave Unit PH, Chicago, IL","$8,000","711 N Milwaukee Ave Unit PH, Chicago, IL",Condo for Rent
+"310 S Michigan Ave Unit 1712, Chicago, IL","$1,750","310 S Michigan Ave Unit 1712, Chicago, IL",Condo for Rent
+"2345 W Cullerton St Unit 1, Chicago, IL","$1,300","2345 W Cullerton St Unit 1, Chicago, IL",2 Bed
+"317 W 23rd Pl Unit 2, Chicago, IL","$1,395","317 W 23rd Pl Unit 2, Chicago, IL",3 Bed
+"680 N Peoria St, Chicago, IL","$4,300","680 N Peoria St, Chicago, IL",Townhome for Rent
+"410 W Grand Ave Unit 2105, Chicago, IL","$2,772","410 W Grand Ave Unit 2105, Chicago, IL",1 Bed
+"1729 W Erie St Unit 3F, Chicago, IL","$1,800","1729 W Erie St Unit 3F, Chicago, IL",Condo for Rent
+"2337 W Lake St Unit 2W, Chicago, IL","$1,500","2337 W Lake St Unit 2W, Chicago, IL",Condo for Rent
+"739 N Ada St Unit 105, Chicago, IL","$3,600","739 N Ada St Unit 105, Chicago, IL",2 Bed
+"1641 W Huron St Unit 1R, Chicago, IL","$1,950","1641 W Huron St Unit 1R, Chicago, IL",2 Bed
+"925 W Huron St Unit 507, Chicago, IL","$2,500","925 W Huron St Unit 507, Chicago, IL",Condo for Rent
+"326 W Illinois St Unit 5, Chicago, IL","$2,595","326 W Illinois St Unit 5, Chicago, IL",1 Bed
+"509 Orleans N St Unit 609, Chicago, IL","$3,139","509 Orleans N St Unit 609, Chicago, IL",2 Bed
+"8 E Randolph St Unit 24-04, Chicago, IL","$3,300","8 E Randolph St Unit 24-04, Chicago, IL",Condo for Rent
+"200 N Dearborn St Unit 2402D, Chicago, IL","$2,800","200 N Dearborn St Unit 2402D, Chicago, IL",Condo for Rent
+"60 E Monroe St Unit 1704, Chicago, IL","$3,600","60 E Monroe St Unit 1704, Chicago, IL",Condo for Rent
+"60 E Monroe St Unit 5205, Chicago, IL","$3,400","60 E Monroe St Unit 5205, Chicago, IL",Condo for Rent
+"323 W Illinois St Unit 21-S, Chicago, IL","$1,710","323 W Illinois St Unit 21-S, Chicago, IL",Studio
+"323 W Illinois St Unit 2102, Chicago, IL","$2,095","323 W Illinois St Unit 2102, Chicago, IL",1 Bed
+"2316 Leavitt S St Unit 2, Chicago, IL","$1,350","2316 Leavitt S St Unit 2, Chicago, IL",3 Bed
+"316 N Clark St Unit 1902, Chicago, IL","$2,388","316 N Clark St Unit 1902, Chicago, IL",1 Bed
+"2015 W Race Ave Unit 2SE, Chicago, IL","$4,750","2015 W Race Ave Unit 2SE, Chicago, IL",2 Bed
+"2001 S State St Unit 3B, Chicago, IL","$1,895","2001 S State St Unit 3B, Chicago, IL",Condo for Rent
+"2046 W Grand Ave. Unit 2R, Chicago, IL","$1,500","2046 W Grand Ave. Unit 2R, Chicago, IL",Studio
+"1936 W Ohio St Unit #1, Chicago, IL","$1,700","1936 W Ohio St Unit #1, Chicago, IL",2 Bed
+"1936 W Ohio St Unit 2, Chicago, IL","$1,500","1936 W Ohio St Unit 2, Chicago, IL",2 Bed
+"440 Ontario W St Unit 8, Chicago, IL","$2,341","440 Ontario W St Unit 8, Chicago, IL",1 Bed
+"1899 S Wabash Ave Unit 2s, Chicago, IL","$2,260","1899 S Wabash Ave Unit 2s, Chicago, IL",2 Bed
+"536 W Erie St Unit 1902, Chicago, IL","$4,679","536 W Erie St Unit 1902, Chicago, IL",3 Bed
+"536 W Erie St Unit 803, Chicago, IL","$2,177","536 W Erie St Unit 803, Chicago, IL",1 Bed
+"536 W Erie St Unit 803, Chicago, IL","$2,117","536 W Erie St Unit 803, Chicago, IL",1 Bed
+"536 W Erie St Unit 1907, Chicago, IL","$2,376","536 W Erie St Unit 1907, Chicago, IL",1 Bed
+"2152 W Hubbard St, Chicago, IL","$4,950","2152 W Hubbard St, Chicago, IL",Townhome for Rent
+"2015 W Ohio St Unit 1R, Chicago, IL","$1,450","2015 W Ohio St Unit 1R, Chicago, IL",2 Bed
+"1 W Wacker Dr Unit 85, Chicago, IL","$3,655","1 W Wacker Dr Unit 85, Chicago, IL",2 Bed
+"510 W Erie St Unit 01002, Chicago, IL","$3,200","510 W Erie St Unit 01002, Chicago, IL",Condo for Rent
+"401 N Wabash Ave Unit 55E, Chicago, IL","$10,750","401 N Wabash Ave Unit 55E, Chicago, IL",Condo for Rent
+"401 N Wabash Ave Unit 64G, Chicago, IL","$6,500","401 N Wabash Ave Unit 64G, Chicago, IL",Condo for Rent
+"233 E 13th St Unit 508, Chicago, IL","$2,200","233 E 13th St Unit 508, Chicago, IL",Condo for Rent
+"2510 W Washington Blvd, Chicago, IL","$2,950","2510 W Washington Blvd, Chicago, IL",House for Rent
+"2705 W Lexington St Unit 2, Chicago, IL","$1,450","2705 W Lexington St Unit 2, Chicago, IL",3 Bed
+"1511 S Indiana Ave Unit G, Chicago, IL","$3,200","1511 S Indiana Ave Unit G, Chicago, IL",Condo for Rent
+"709 28th W St Unit 709, Chicago, IL","$1,100","709 28th W St Unit 709, Chicago, IL",1 Bed
+"2216 W 24th St Unit 1, Chicago, IL","$1,350","2216 W 24th St Unit 1, Chicago, IL",2 Bed
+"130 N Garland Ct Unit 1704, Chicago, IL","$2,250","130 N Garland Ct Unit 1704, Chicago, IL",Condo for Rent
+"1629 S Prairie Ave Unit #2002, Chicago, IL","$3,400","1629 S Prairie Ave Unit #2002, Chicago, IL",Condo for Rent
+"1521 S Indiana Ave Unit M, Chicago, IL","$2,600","1521 S Indiana Ave Unit M, Chicago, IL",Condo for Rent
+"33 E Lake St Unit 1609, Chicago, IL","$3,039","33 E Lake St Unit 1609, Chicago, IL",2 Bed
+"156 N Wabash Ave Unit 611, Chicago, IL","$1,715","156 N Wabash Ave Unit 611, Chicago, IL",Studio
+"420 N Clark St Unit 1602, Chicago, IL","$2,081","420 N Clark St Unit 1602, Chicago, IL",1 Bed
+"420 N Clark St Unit 81-C, Chicago, IL","$1,984","420 N Clark St Unit 81-C, Chicago, IL",1 Bed
+"2318 S Oakley Ave Unit 1, Chicago, IL","$1,400","2318 S Oakley Ave Unit 1, Chicago, IL",1 Bed
+"870 N Milwaukee Ave Unit 0204, Chicago, IL","$2,600","870 N Milwaukee Ave Unit 0204, Chicago, IL",Condo for Rent
+"870 N Milwaukee Ave Unit #204, Chicago, IL","$2,700","870 N Milwaukee Ave Unit #204, Chicago, IL",Condo for Rent
+"1010 W Fry St Unit 1, Chicago, IL","$4,000","1010 W Fry St Unit 1, Chicago, IL",3 Bed
+"644 N Orleans St Unit 1612, Chicago, IL","$2,667","644 N Orleans St Unit 1612, Chicago, IL",1 Bed
+"91 W Hubbard St Unit 0s, Chicago, IL","$1,685","91 W Hubbard St Unit 0s, Chicago, IL",Studio
+"435 N Clark St Unit 2910, Chicago, IL","$1,868","435 N Clark St Unit 2910, Chicago, IL",Studio
+"110 W Illinois St Unit 21, Chicago, IL","$3,295","110 W Illinois St Unit 21, Chicago, IL",2 Bed
+"116 W Illinois St Unit 1-1, Chicago, IL","$2,399","116 W Illinois St Unit 1-1, Chicago, IL",1 Bed
+"839 N Marshfield Ave Unit 1EAST, Chicago, IL","$2,200","839 N Marshfield Ave Unit 1EAST, Chicago, IL",Condo for Rent
+"1400 W Chestnut St Unit 1, Chicago, IL","$3,600","1400 W Chestnut St Unit 1, Chicago, IL",Condo for Rent
+"1910 S Indiana Ave Unit #423, Chicago, IL","$2,400","1910 S Indiana Ave Unit #423, Chicago, IL",Condo for Rent
+"1422 W Chestnut St Unit 1F, Chicago, IL","$2,550","1422 W Chestnut St Unit 1F, Chicago, IL",3 Bed
+"2806 S Normal Ave Unit 1st/F, Chicago, IL","$1,100","2806 S Normal Ave Unit 1st/F, Chicago, IL",2 Bed
+"2007 W Superior St Unit 02, Chicago, IL","$2,800","2007 W Superior St Unit 02, Chicago, IL",Condo for Rent
+"230 Michigan N Ave Unit 1308, Chicago, IL","$2,928","230 Michigan N Ave Unit 1308, Chicago, IL",2 Bed
+"2971 S Lyman St Unit 2, Chicago, IL","$1,500","2971 S Lyman St Unit 2, Chicago, IL",2 Bed
+"1443 W Walton St Unit G, Chicago, IL","$1,500","1443 W Walton St Unit G, Chicago, IL",Condo for Rent
+"2336 W 24th Pl Unit 2, Chicago, IL","$1,750","2336 W 24th Pl Unit 2, Chicago, IL",2 Bed
+"310 Michigan Ave Unit 4307, Chicago, IL","$1,669","310 Michigan Ave Unit 4307, Chicago, IL",1 Bed
+"331 Superior W St Unit 1602, Chicago, IL","$2,200","331 Superior W St Unit 1602, Chicago, IL",1 Bed
+"237 26th W St Unit 2F, Chicago, IL","$1,300","237 26th W St Unit 2F, Chicago, IL",3 Bed
+"5 S Columbus Dr Unit 07109, Chicago, IL","$2,200","5 S Columbus Dr Unit 07109, Chicago, IL",Condo for Rent
+"225 W Huron St Unit 614, Chicago, IL","$2,680","225 W Huron St Unit 614, Chicago, IL",1 Bed
+"2216 S Michigan Ave Unit 610, Chicago, IL","$1,865","2216 S Michigan Ave Unit 610, Chicago, IL",1 Bed
+"925 N Ashland Ave Unit UA-2R, Chicago, IL","$1,800","925 N Ashland Ave Unit UA-2R, Chicago, IL",2 Bed
+"2301 W 25th St Unit 2, Chicago, IL","$1,300","2301 W 25th St Unit 2, Chicago, IL",3 Bed
+"903 N Halsted St Unit 5, Chicago, IL","$2,431","903 N Halsted St Unit 5, Chicago, IL",1 Bed
+"2035 S Indiana Ave Unit 211, Chicago, IL","$1,600","2035 S Indiana Ave Unit 211, Chicago, IL",Condo for Rent
+"1823 S Fairfield Ave Unit 1, Chicago, IL","$1,650","1823 S Fairfield Ave Unit 1, Chicago, IL",3 Bed
+"159 W Erie St Unit 132, Chicago, IL","$3,521","159 W Erie St Unit 132, Chicago, IL",2 Bed
+"412 W Chicago Ave Unit 129, Chicago, IL","$3,660","412 W Chicago Ave Unit 129, Chicago, IL",2 Bed
+"412 W Chicago Ave Unit 129-1D, Chicago, IL","$2,670","412 W Chicago Ave Unit 129-1D, Chicago, IL",1 Bed
+"837 N Wolcott Ave Unit #1, Chicago, IL","$3,200","837 N Wolcott Ave Unit #1, Chicago, IL",3 Bed
+"2824 W Van Buren St Unit 101, Chicago, IL","$2,200","2824 W Van Buren St Unit 101, Chicago, IL",Condo for Rent
+"2824 W Van Buren St Unit 201, Chicago, IL","$2,250","2824 W Van Buren St Unit 201, Chicago, IL",Condo for Rent
+"2824 W Van Buren St Unit 301, Chicago, IL","$2,300","2824 W Van Buren St Unit 301, Chicago, IL",Condo for Rent
+"755 N Orleans St Unit 609, Chicago, IL","$3,000","755 N Orleans St Unit 609, Chicago, IL",Condo for Rent
+"700 N LaSalle Dr Unit 125, Chicago, IL","$3,300","700 N LaSalle Dr Unit 125, Chicago, IL",2 Bed
+"641 Clark N St Unit 1, Chicago, IL","$4,139","641 Clark N St Unit 1, Chicago, IL",3 Bed
+"700 N LaSalle Dr Unit 125-2, Chicago, IL","$3,300","700 N LaSalle Dr Unit 125-2, Chicago, IL",2 Bed
+"847 N Larrabee St Unit 3R, Chicago, IL","$2,520","847 N Larrabee St Unit 3R, Chicago, IL",2 Bed
+"2168 S Indiana Ave Unit 1l, Chicago, IL","$1,990","2168 S Indiana Ave Unit 1l, Chicago, IL",1 Bed
+"2168 S Indiana Ave Unit 2s, Chicago, IL","$2,365","2168 S Indiana Ave Unit 2s, Chicago, IL",2 Bed
+"2168 S Indiana Ave Unit 2l, Chicago, IL","$2,730","2168 S Indiana Ave Unit 2l, Chicago, IL",2 Bed
+"2651 W 21st St Unit 1, Chicago, IL","$1,200","2651 W 21st St Unit 1, Chicago, IL",3 Bed
+"2323 S Wabash Ave Unit 5, Chicago, IL","$3,200","2323 S Wabash Ave Unit 5, Chicago, IL",Condo for Rent
+"825 N Hudson Ave Unit 4b, Chicago, IL","$3,214","825 N Hudson Ave Unit 4b, Chicago, IL",2 Bed
+"873 N Larrabee St Unit #503, Chicago, IL","$2,900","873 N Larrabee St Unit #503, Chicago, IL",Condo for Rent
+"224 N Michigan Ave Unit 611, Chicago, IL","$1,670","224 N Michigan Ave Unit 611, Chicago, IL",Studio
+"33 W Ontario St Unit 47C*, Chicago, IL","$2,075","33 W Ontario St Unit 47C*, Chicago, IL",Condo for Rent
+"151 E Wacker Dr Unit 3004, Chicago, IL","$1,800","151 E Wacker Dr Unit 3004, Chicago, IL",1 Bed
+"151 Wacker E Dr Unit 202, Chicago, IL","$1,409","151 Wacker E Dr Unit 202, Chicago, IL",1 Bed
+"600 N State St Unit 1608, Chicago, IL","$1,659","600 N State St Unit 1608, Chicago, IL",Studio
+"2145 W Chicago Ave Unit 1, Chicago, IL","$1,800","2145 W Chicago Ave Unit 1, Chicago, IL",3 Bed
+"222 N Columbus Dr Unit 4609, Chicago, IL","$3,050","222 N Columbus Dr Unit 4609, Chicago, IL",2 Bed
+"226 Columbus N Dr Unit 0s, Chicago, IL","$1,685","226 Columbus N Dr Unit 0s, Chicago, IL",Studio
+"1229 W 31st St Unit 1, Chicago, IL","$1,375","1229 W 31st St Unit 1, Chicago, IL",2 Bed
+"2931 S Canal St Unit 1F, Chicago, IL","$1,000","2931 S Canal St Unit 1F, Chicago, IL",2 Bed
+"201 E Illinois St Unit 1709, Chicago, IL","$2,199","201 E Illinois St Unit 1709, Chicago, IL",1 Bed
+"472 Erie W St Unit 1102, Chicago, IL","$4,740","472 Erie W St Unit 1102, Chicago, IL",3 Bed
+"857 N Hoyne Ave Unit 1, Chicago, IL","$1,830","857 N Hoyne Ave Unit 1, Chicago, IL",2 Bed
+"816 N Leavitt St Unit 1F, Chicago, IL","$1,600","816 N Leavitt St Unit 1F, Chicago, IL",Condo for Rent
+"300 E North Water St Unit 1305, Chicago, IL","$2,995","300 E North Water St Unit 1305, Chicago, IL",2 Bed
+"300 E North Water St Unit 2002, Chicago, IL","$2,250","300 E North Water St Unit 2002, Chicago, IL",1 Bed
+"2933 W Adams St Unit 1, Chicago, IL","$1,375","2933 W Adams St Unit 1, Chicago, IL",2 Bed
+"2750 W Cermak Rd Unit 3F, Chicago, IL","$1,425","2750 W Cermak Rd Unit 3F, Chicago, IL",2 Bed
+"820 N LaSalle Dr Unit 11-1, Chicago, IL","$2,273","820 N LaSalle Dr Unit 11-1, Chicago, IL",1 Bed
+"820 N LaSalle Dr Unit 2902, Chicago, IL","$1,747","820 N LaSalle Dr Unit 2902, Chicago, IL",Studio
+"725 W 34th St Unit 1, Chicago, IL","$1,950","725 W 34th St Unit 1, Chicago, IL",Condo for Rent
+"2652 W 23rd Pl Unit 2, Chicago, IL","$1,795","2652 W 23rd Pl Unit 2, Chicago, IL",3 Bed
+"2652 W 23rd Pl Unit 3, Chicago, IL","$1,695","2652 W 23rd Pl Unit 3, Chicago, IL",3 Bed
+"3008 W Flournoy St Unit 3, Chicago, IL","$1,350","3008 W Flournoy St Unit 3, Chicago, IL",Condo for Rent
+"2650 W 23rd Pl Unit 3, Chicago, IL","$1,795","2650 W 23rd Pl Unit 3, Chicago, IL",3 Bed
+"525 N Michigan Ave Unit 1512F, Chicago, IL","$1,750","525 N Michigan Ave Unit 1512F, Chicago, IL",Condo for Rent
+"2550 S Wabash Ave Unit 207, Chicago, IL","$3,350","2550 S Wabash Ave Unit 207, Chicago, IL",3 Bed
+"710 N State St Unit 2303, Chicago, IL","$2,645","710 N State St Unit 2303, Chicago, IL",2 Bed
+"2726 W 23rd St Unit 2, Chicago, IL","$1,100","2726 W 23rd St Unit 2, Chicago, IL",1 Bed
+"439 E Erie St Unit 5201, Chicago, IL","$1,685","439 E Erie St Unit 5201, Chicago, IL",Studio
+"1101 N Marshfield Ave Unit 2REAR, Chicago, IL","$1,650","1101 N Marshfield Ave Unit 2REAR, Chicago, IL",Condo for Rent
+"2862 W 21st St Unit 1R, Chicago, IL","$1,295","2862 W 21st St Unit 1R, Chicago, IL",2 Bed
+"751 N State St Unit 08, Chicago, IL","$3,363","751 N State St Unit 08, Chicago, IL",2 Bed
+"3235 S Racine Ave Unit 3F, Chicago, IL","$1,150","3235 S Racine Ave Unit 3F, Chicago, IL",2 Bed
+"865 LaSalle N Dr Unit 1s, Chicago, IL","$1,960","865 LaSalle N Dr Unit 1s, Chicago, IL",1 Bed
+"848 N Oakley Blvd Unit 002, Chicago, IL","$2,100","848 N Oakley Blvd Unit 002, Chicago, IL",3 Bed
+"2853 W 21st Pl Unit 1R, Chicago, IL","$1,200","2853 W 21st Pl Unit 1R, Chicago, IL",2 Bed
+"118 E Erie St Unit 18B, Chicago, IL","$6,500","118 E Erie St Unit 18B, Chicago, IL",Condo for Rent
+"1237 W 32nd Pl Unit grdr, Chicago, IL","$1,200","1237 W 32nd Pl Unit grdr, Chicago, IL",1 Bed
+"2937 W Washington Blvd Unit 2, Chicago, IL","$1,150","2937 W Washington Blvd Unit 2, Chicago, IL",3 Bed
+"1611 W Division St Unit 1105, Chicago, IL","$2,165","1611 W Division St Unit 1105, Chicago, IL",1 Bed
+"1611 W Division St Unit 606, Chicago, IL","$2,195","1611 W Division St Unit 606, Chicago, IL",1 Bed
+"3133 S Parnell Ave Unit 3, Chicago, IL","$1,400","3133 S Parnell Ave Unit 3, Chicago, IL",2 Bed
+"300 E Illinois St Unit 303, Chicago, IL","$3,200","300 E Illinois St Unit 303, Chicago, IL",2 Bed
+"455 Park N Dr Unit 0309, Chicago, IL","$2,524","455 Park N Dr Unit 0309, Chicago, IL",1 Bed
+"1034 Orleans N Ct, Chicago, IL","$5,000","1034 Orleans N Ct, Chicago, IL",Townhome for Rent
+"460 E Waterside Dr Unit 1806, Chicago, IL","$2,600","460 E Waterside Dr Unit 1806, Chicago, IL",Condo for Rent
+"100 E Huron St Unit 4303, Chicago, IL","$10,000","100 E Huron St Unit 4303, Chicago, IL",Condo for Rent
+"2215 W Augusta Blvd Unit 2E, Chicago, IL","$2,400","2215 W Augusta Blvd Unit 2E, Chicago, IL",Condo for Rent
+"195 N Harbor Dr Unit 5407, Chicago, IL","$2,000","195 N Harbor Dr Unit 5407, Chicago, IL",Condo for Rent
+"195 N Harbor Dr Unit #1109, Chicago, IL","$1,600","195 N Harbor Dr Unit #1109, Chicago, IL",Condo for Rent
+"2907 Fulton W St Unit 2, Chicago, IL","$1,750","2907 Fulton W St Unit 2, Chicago, IL",2 Bed
+"3232 S Union Ave Unit 1, Chicago, IL","$1,250","3232 S Union Ave Unit 1, Chicago, IL",2 Bed
+"2100 S Marshall Blvd Unit 708, Chicago, IL","$1,500","2100 S Marshall Blvd Unit 708, Chicago, IL",2 Bed
+"2100 S Marshall Blvd Unit 602, Chicago, IL","$1,800","2100 S Marshall Blvd Unit 602, Chicago, IL",2 Bed
+"450 E Waterside Dr Unit 709, Chicago, IL","$3,000","450 E Waterside Dr Unit 709, Chicago, IL",Condo for Rent
+"600 N Fairbanks Ct Unit 03201, Chicago, IL","$6,500","600 N Fairbanks Ct Unit 03201, Chicago, IL",Condo for Rent
+"1034 N Wells St Unit 1001, Chicago, IL","$3,123","1034 N Wells St Unit 1001, Chicago, IL",2 Bed
+"3127 W 15th St Unit 1 fl rear, Chicago, IL",$925,"3127 W 15th St Unit 1 fl rear, Chicago, IL",2 Bed
+"1901 W Division St Unit #3N, Chicago, IL","$3,995","1901 W Division St Unit #3N, Chicago, IL",Condo for Rent
+"622 N Fairbanks Ct Unit 3816, Chicago, IL","$1,675","622 N Fairbanks Ct Unit 3816, Chicago, IL",1 Bed
+"457 E Ohio St Unit 1s, Chicago, IL","$1,675","457 E Ohio St Unit 1s, Chicago, IL",1 Bed
+"2415 W Walton St Unit 2R, Chicago, IL","$1,550","2415 W Walton St Unit 2R, Chicago, IL",2 Bed
+"1215 N Wolcott Ave Unit 1, Chicago, IL","$4,295","1215 N Wolcott Ave Unit 1, Chicago, IL",4 Bed
+"1261 N Paulina St Unit 003, Chicago, IL","$4,200","1261 N Paulina St Unit 003, Chicago, IL",Condo for Rent
+"323 E Ontario St Unit 18, Chicago, IL","$1,888","323 E Ontario St Unit 18, Chicago, IL",1 Bed
+"345 E Eastgate Pl Unit 503, Chicago, IL","$1,350","345 E Eastgate Pl Unit 503, Chicago, IL",Condo for Rent
+"204 W Hill St Unit 912, Chicago, IL","$2,025","204 W Hill St Unit 912, Chicago, IL",Studio
+"111 E Chestnut St Unit 33A, Chicago, IL","$4,100","111 E Chestnut St Unit 33A, Chicago, IL",Condo for Rent
+"356 E Ohio St Unit 12-C, Chicago, IL","$2,343","356 E Ohio St Unit 12-C, Chicago, IL",1 Bed
+"50 E Chestnut St Unit 1401*, Chicago, IL","$17,000","50 E Chestnut St Unit 1401*, Chicago, IL",Condo for Rent
+"1534 N Kedzie Ave Unit 3G, Chicago, IL","$1,250","1534 N Kedzie Ave Unit 3G, Chicago, IL",1 Bed
+"1524 N Kedzie Ave Unit 2, Chicago, IL","$1,395","1524 N Kedzie Ave Unit 2, Chicago, IL",1 Bed
+"1317 N Larrabee St Unit 305, Chicago, IL","$4,300","1317 N Larrabee St Unit 305, Chicago, IL",Condo for Rent
+"2020 W Division St Unit 2, Chicago, IL","$3,300","2020 W Division St Unit 2, Chicago, IL",3 Bed
+"415 E North Water St Unit 802, Chicago, IL","$3,700","415 E North Water St Unit 802, Chicago, IL",Condo for Rent
+"1400 N Halsted St Unit 611, Chicago, IL","$2,401","1400 N Halsted St Unit 611, Chicago, IL",1 Bed
+"205 E Chestnut St Unit 1, Chicago, IL","$1,610","205 E Chestnut St Unit 1, Chicago, IL",1 Bed
+"205 E Chestnut St Unit S, Chicago, IL","$1,415","205 E Chestnut St Unit S, Chicago, IL",Studio
+"1347 N Ashland Ave Unit 2N, Chicago, IL","$3,100","1347 N Ashland Ave Unit 2N, Chicago, IL",Condo for Rent
+"2346 S Marshall Blvd Unit 2, Chicago, IL","$1,200","2346 S Marshall Blvd Unit 2, Chicago, IL",2 Bed
+"2253 S Whipple St Unit G, Chicago, IL","$1,500","2253 S Whipple St Unit G, Chicago, IL",3 Bed
+"2253 Whipple S St Unit 1, Chicago, IL","$1,575","2253 Whipple S St Unit 1, Chicago, IL",3 Bed
+"1243 N Damen Ave Unit 1FR, Chicago, IL","$1,900","1243 N Damen Ave Unit 1FR, Chicago, IL",Condo for Rent
+"2901 S Michigan Ave Unit 404, Chicago, IL","$1,350","2901 S Michigan Ave Unit 404, Chicago, IL",Condo for Rent
+"1421 Halsted N St Unit 4s, Chicago, IL","$2,250","1421 Halsted N St Unit 4s, Chicago, IL",Condo for Rent
+"645 N McClurg Ct Unit 32-1, Chicago, IL","$2,140","645 N McClurg Ct Unit 32-1, Chicago, IL",1 Bed
+"1424 N Halsted St Unit 501, Chicago, IL","$3,800","1424 N Halsted St Unit 501, Chicago, IL",2 Bed
+"3336 S Parnell Ave Unit 3rd floor, Chicago, IL","$1,500","3336 S Parnell Ave Unit 3rd floor, Chicago, IL",3 Bed
+"723 W 34th St Unit 1, Chicago, IL","$1,875","723 W 34th St Unit 1, Chicago, IL",Condo for Rent
+"340 Superior E St Unit 1309, Chicago, IL","$2,630","340 Superior E St Unit 1309, Chicago, IL",1 Bed
+"340 Superior E St Unit 211, Chicago, IL","$2,553","340 Superior E St Unit 211, Chicago, IL",1 Bed
+"848 W Eastman St Unit 102, Chicago, IL","$4,093","848 W Eastman St Unit 102, Chicago, IL",2 Bed
+"848 W Eastman St Unit 102, Chicago, IL","$3,857","848 W Eastman St Unit 102, Chicago, IL",2 Bed
+"530 N Lake Shore Dr Unit 3004, Chicago, IL","$4,200","530 N Lake Shore Dr Unit 3004, Chicago, IL",2 Bed
+"222 E Pearson St Unit #1503, Chicago, IL","$1,850","222 E Pearson St Unit #1503, Chicago, IL",Condo for Rent
+"3207 W Washington Blvd Unit 4, Chicago, IL","$1,800","3207 W Washington Blvd Unit 4, Chicago, IL",Condo for Rent
+"201 E Chestnut St Unit 215-4, Chicago, IL","$1,840","201 E Chestnut St Unit 215-4, Chicago, IL",1 Bed
+"1500 Spaulding S Ave Unit 1, Chicago, IL","$1,250","1500 Spaulding S Ave Unit 1, Chicago, IL",3 Bed
+"451 E Erie St Unit 2s, Chicago, IL","$3,200","451 E Erie St Unit 2s, Chicago, IL",2 Bed
+"2941 25th W St Unit 1, Chicago, IL","$1,800","2941 25th W St Unit 1, Chicago, IL",4 Bed
+"2313 Albany S Ave Unit 1, Chicago, IL",$730,"2313 Albany S Ave Unit 1, Chicago, IL",1 Bed
+"2136 W Crystal St Unit 2, Chicago, IL","$2,600","2136 W Crystal St Unit 2, Chicago, IL",Condo for Rent
+"1645 N Ogden Ave Unit 0615, Chicago, IL","$2,000","1645 N Ogden Ave Unit 0615, Chicago, IL",Condo for Rent
+"680 N Lake Shore Dr Unit 1504, Chicago, IL","$1,895","680 N Lake Shore Dr Unit 1504, Chicago, IL",1 Bed
+"1150 N Dearborn St Unit 2610, Chicago, IL","$1,700","1150 N Dearborn St Unit 2610, Chicago, IL",1 Bed
+"3001 S Michigan Ave Unit 1904, Chicago, IL","$1,250","3001 S Michigan Ave Unit 1904, Chicago, IL",Condo for Rent
+"159 E Walton Pl Unit 005G, Chicago, IL","$10,000","159 E Walton Pl Unit 005G, Chicago, IL",Condo for Rent
+"1120 N State St Unit 24-S, Chicago, IL","$1,592","1120 N State St Unit 24-S, Chicago, IL",Studio
+"1220 N LaSalle Dr Unit 3D, Chicago, IL","$1,495","1220 N LaSalle Dr Unit 3D, Chicago, IL",Studio
+"1445 N Bosworth Ave Unit 1, Chicago, IL","$1,900","1445 N Bosworth Ave Unit 1, Chicago, IL",2 Bed
+"950 N Michigan Ave Unit 4304, Chicago, IL","$6,950","950 N Michigan Ave Unit 4304, Chicago, IL",Condo for Rent
+"950 N Michigan Ave Unit 4101, Chicago, IL","$4,600","950 N Michigan Ave Unit 4101, Chicago, IL",Condo for Rent
+"1846 S Sawyer Ave Unit 2F, Chicago, IL","$1,200","1846 S Sawyer Ave Unit 2F, Chicago, IL",3 Bed
+"850 N Dewitt Pl Unit 04f, Chicago, IL","$1,663","850 N Dewitt Pl Unit 04f, Chicago, IL",1 Bed
+"850 N Dewitt Pl Unit 11B, Chicago, IL","$1,650","850 N Dewitt Pl Unit 11B, Chicago, IL",Condo for Rent
+"1501 N Halsted St Unit 1901, Chicago, IL","$4,615","1501 N Halsted St Unit 1901, Chicago, IL",2 Bed
+"3316 Hamilton S Ave Unit 2, Chicago, IL","$1,000","3316 Hamilton S Ave Unit 2, Chicago, IL",1 Bed
+"860 W Blackhawk St Unit 01006, Chicago, IL","$3,350","860 W Blackhawk St Unit 01006, Chicago, IL",Condo for Rent
+"1918 S Sawyer Ave Unit 2, Chicago, IL","$1,500","1918 S Sawyer Ave Unit 2, Chicago, IL",3 Bed
+"1507 Elston N Ave Unit 1, Chicago, IL","$1,200","1507 Elston N Ave Unit 1, Chicago, IL",1 Bed
+"1401 N Wicker Park Ave Unit 1, Chicago, IL","$2,050","1401 N Wicker Park Ave Unit 1, Chicago, IL",3 Bed
+"1222 S Homan Ave Unit 1, Chicago, IL","$1,200","1222 S Homan Ave Unit 1, Chicago, IL",3 Bed
+"227 E Delaware Pl Unit 75-1, Chicago, IL","$1,772","227 E Delaware Pl Unit 75-1, Chicago, IL",1 Bed
+"322 W Evergreen Ave Unit 2, Chicago, IL","$1,995","322 W Evergreen Ave Unit 2, Chicago, IL",2 Bed
+"1513 Clybourn N Ave Unit C, Chicago, IL","$3,500","1513 Clybourn N Ave Unit C, Chicago, IL",3 Bed
+"260 E Chestnut St Unit 1608, Chicago, IL","$1,525","260 E Chestnut St Unit 1608, Chicago, IL",Condo for Rent
+"260 E Chestnut St Unit 44011, Chicago, IL","$2,650","260 E Chestnut St Unit 44011, Chicago, IL",Condo for Rent
+"1630 W Le Moyne St Unit 1F, Chicago, IL","$3,995","1630 W Le Moyne St Unit 1F, Chicago, IL",Condo for Rent
+"1442 N North Park Avenue Unit BB, Chicago, IL","$3,750","1442 N North Park Avenue Unit BB, Chicago, IL",Condo for Rent
+"1442 N North Park Avenue Unit B, Chicago, IL","$3,750","1442 N North Park Avenue Unit B, Chicago, IL",3 Bed
+"2231 S Sawyer Ave Unit 2, Chicago, IL","$1,325","2231 S Sawyer Ave Unit 2, Chicago, IL",Condo for Rent
+"30 W Division St Unit 2e, Chicago, IL","$2,750","30 W Division St Unit 2e, Chicago, IL",Condo for Rent
+"827 N Francisco Ave Unit 1, Chicago, IL","$1,900","827 N Francisco Ave Unit 1, Chicago, IL",3 Bed
+"843 N Francisco Ave Unit G1, Chicago, IL","$1,100","843 N Francisco Ave Unit G1, Chicago, IL",2 Bed
+"3353 W Warren Blvd Unit 1, Chicago, IL",$699,"3353 W Warren Blvd Unit 1, Chicago, IL",Studio
+"1511 N Cleveland Ave Unit 2N, Chicago, IL","$3,249","1511 N Cleveland Ave Unit 2N, Chicago, IL",Condo for Rent
+"1647 W North Ave Unit 03, Chicago, IL","$2,390","1647 W North Ave Unit 03, Chicago, IL",2 Bed
+"1246 N Artesian Ave Unit 1F, Chicago, IL","$1,900","1246 N Artesian Ave Unit 1F, Chicago, IL",Condo for Rent
+"3455 W Jackson Blvd Unit 2, Chicago, IL","$1,000","3455 W Jackson Blvd Unit 2, Chicago, IL",3 Bed
+"3401 S Western Blvd Unit G-N, Chicago, IL","$1,175","3401 S Western Blvd Unit G-N, Chicago, IL",Condo for Rent
+"1637 N Clybourn Ave Unit CH1, Chicago, IL","$1,850","1637 N Clybourn Ave Unit CH1, Chicago, IL",Condo for Rent
+"940 W Concord Pl Unit 3, Chicago, IL","$4,750","940 W Concord Pl Unit 3, Chicago, IL",4 Bed
+"1435 N Wells St Unit 508, Chicago, IL","$2,935","1435 N Wells St Unit 508, Chicago, IL",2 Bed
+"1435 N Wells St Unit 609, Chicago, IL","$1,730","1435 N Wells St Unit 609, Chicago, IL",Studio
+"1849 W North Ave Unit #4, Chicago, IL","$3,000","1849 W North Ave Unit #4, Chicago, IL",Condo for Rent
+"1347 N Dearborn St Unit 203, Chicago, IL","$1,430","1347 N Dearborn St Unit 203, Chicago, IL",Studio
+"501 W North Ave Unit 190, Chicago, IL","$2,095","501 W North Ave Unit 190, Chicago, IL",Studio
+"1352 N Western Ave Unit 2R, Chicago, IL","$1,350","1352 N Western Ave Unit 2R, Chicago, IL",1 Bed
